@@ -10,3 +10,6 @@ Tecnologias Utilizadas:
 3.Ramas
 4.Commits
 5.Pull Requests
+
+Objetivo: 
+Aprender el flujo básico de trabajo colaborativo con GitHub
