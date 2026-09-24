@@ -3,3 +3,10 @@ Nombre: Jesús Ramos A lfaro
 Materia:Gestion de proyectos de software
 Actividad: Repositorios y control de versiones
   
+Tecnologias Utilizadas:
+
+1.GitHub
+2.Repositorios
+3.Ramas
+4.Commits
+5.Pull Requests
